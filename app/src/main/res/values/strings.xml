@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TesCompose</string>
+    <string name="movies_name">Nama Animasi</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Vestibulum nec elit vel libero gravida lobortis. Sed sit amet ex ac ante consequat cursus. Integer nec odio sit amet urna maximus efficitur. Nulla facilisi. Vivamus lacinia tellus sed purus posuere, in fermentum libero imperdiet. Maecenas non odio ac sem gravida tincidunt. Sed aliquam metus eu dui lacinia, ac mattis nulla laoreet. Suspendisse potenti. Vivamus at justo ut mauris lacinia condimentum. Sed eu nulla et libero posuere euismod. Phasellus ac turpis at mauris pulvinar pulvinar. Curabitur sed velit sed felis fermentum commodo. Cras fermentum, quam eget auctor sodales, lorem libero mattis elit, in tincidunt arcu ex eget mi. Vivamus venenatis ligula at nulla interdum, nec auctor sem gravida. Curabitur vulputate est eu nulla fermentum, non viverra purus bibendum.</string>
+    <string name="year">Year</string>
+    <string name="about">About</string>
+    <string name="about_text">Ini halaman about</string>
+    <string name="profile_name">Muhammad Fadhilah Rasyid</string>
+    <string name="profile_email">anamnima3@gmail.com</string>
+
+</resources>
